@@ -83,7 +83,7 @@ The next step is to use the Login menu to either Login to an existing account or
 
 Clicking on the Login link, then on the Sign In menu item displays this page:
 
-<img src="login.png">
+<img src="doc/login.png">
 
 #### Register page
 
