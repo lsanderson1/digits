@@ -118,7 +118,7 @@ You click the "Edit" link to go to the Edit Stuff page, shown next.
 
 After clicking on the "Edit" link associated with an item, this page displays that allows you to change and save any existing contacts.
 
-<img src="editcontact.png">
+<img src="doc/editcontact.png">
 
 #### Landing (after Login), Admin user
 
