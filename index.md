@@ -75,7 +75,7 @@ meteor npm run lint
 
 When you retrieve the app at http://localhost:3000, this is what should be displayed:
 
-<img src="doc/landing.png">
+<img src="doc/prelogin.png">
 
 The next step is to use the Login menu to either Login to an existing account or register a new account.
 
